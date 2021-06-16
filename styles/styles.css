@@ -82,7 +82,7 @@ nav #hamburger {
 }
 
 .menu_show {
-    transform: translate(0, 0) !important;
+    transform: translate(50%, 0) !important;
 
 
 
