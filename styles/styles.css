@@ -98,12 +98,13 @@ nav #hamburger {
 
 .hero {
     margin-top: 5rem;
+    
 }
 
 .hero_title,
 .hero_subtitle,
 .hero_action-title {
-    margin-bottom: 1.2rem;
+    margin-bottom: 1.5rem;
     font-weight: 500;
     color: rgba(2, 2, 2, 0.74);
 }
